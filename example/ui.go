@@ -15,8 +15,8 @@ import (
 	"github.com/google/gxui"
 	"github.com/google/gxui/samples/flags"
 	"github.com/google/gxui/themes/light"
-	"github.com/tomatome/grdp/core"
-	"github.com/tomatome/grdp/glog"
+	"github.com/shreevari/grdp/core"
+	"github.com/shreevari/grdp/glog"
 )
 
 var (

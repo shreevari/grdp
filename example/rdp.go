@@ -8,14 +8,14 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/tomatome/grdp/core"
-	"github.com/tomatome/grdp/glog"
-	"github.com/tomatome/grdp/protocol/nla"
-	"github.com/tomatome/grdp/protocol/pdu"
-	"github.com/tomatome/grdp/protocol/sec"
-	"github.com/tomatome/grdp/protocol/t125"
-	"github.com/tomatome/grdp/protocol/tpkt"
-	"github.com/tomatome/grdp/protocol/x224"
+	"github.com/shreevari/grdp/core"
+	"github.com/shreevari/grdp/glog"
+	"github.com/shreevari/grdp/protocol/nla"
+	"github.com/shreevari/grdp/protocol/pdu"
+	"github.com/shreevari/grdp/protocol/sec"
+	"github.com/shreevari/grdp/protocol/t125"
+	"github.com/shreevari/grdp/protocol/tpkt"
+	"github.com/shreevari/grdp/protocol/x224"
 )
 
 const (

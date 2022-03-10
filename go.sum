@@ -212,8 +212,8 @@ github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69
 github.com/tfriedel6/canvas v0.12.1 h1:Oc4gww+cOtix69IaYo8TmRbwpbTl6D1jza2mBM4ZOPo=
 github.com/tfriedel6/canvas v0.12.1/go.mod h1:WIe1YgsQiKA1awmU6tSs8e5DkceDHC5MHgV5vQQZr/0=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
-github.com/tomatome/grdp v0.0.0-20210528085147-1446eea48c6b h1:SUc5acAota73+3hUkUA42fZZUC1rUukx2aFOlYcZWU8=
-github.com/tomatome/grdp v0.0.0-20210528085147-1446eea48c6b/go.mod h1:qv+ow9CVk/wBGU7zQeqn+ByLmWSb/8zwVgfZhYt5Fs0=
+github.com/shreevari/grdp v0.0.0-20210528085147-1446eea48c6b h1:SUc5acAota73+3hUkUA42fZZUC1rUukx2aFOlYcZWU8=
+github.com/shreevari/grdp v0.0.0-20210528085147-1446eea48c6b/go.mod h1:qv+ow9CVk/wBGU7zQeqn+ByLmWSb/8zwVgfZhYt5Fs0=
 github.com/valyala/bytebufferpool v1.0.0/go.mod h1:6bBcMArwyJ5K/AmCkWv1jt77kVWyCJ6HpOuEn7z0Csc=
 github.com/valyala/fasttemplate v1.0.1/go.mod h1:UQGH1tvbgY+Nz5t2n7tXsz52dQxojPUpymEIMZ47gx8=
 github.com/veandco/go-sdl2 v0.4.0 h1:l9q6K+Dvpd/VlZdw2ufApKnWhAQqx9UL8Zrvbjtm3Lw=

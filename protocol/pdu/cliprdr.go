@@ -3,8 +3,8 @@ package pdu
 import (
 	"bytes"
 
-	"github.com/tomatome/grdp/core"
-	"github.com/tomatome/grdp/glog"
+	"github.com/shreevari/grdp/core"
+	"github.com/shreevari/grdp/glog"
 )
 
 /**
