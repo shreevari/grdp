@@ -10,6 +10,7 @@ require (
 	github.com/gopherjs/gopherjs v0.0.0-20210621113107-84c6004145de // indirect
 	github.com/goxjs/gl v0.0.0-20210104184919-e3fafc6f8f2a // indirect
 	github.com/goxjs/glfw v0.0.0-20191126052801-d2efb5f20838 // indirect
+	github.com/huin/asn1ber v0.0.0-20120622192748-af09f62e6358 // indirect
 	github.com/icodeface/tls v0.0.0-20190904083142-17aec93c60e5
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
 	github.com/tfriedel6/canvas v0.12.1
